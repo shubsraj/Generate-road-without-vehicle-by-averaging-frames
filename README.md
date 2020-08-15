@@ -4,7 +4,7 @@
 Here i Worked on Computer Vision where i worked on diffrant things liks object detection (car in my case), 
 Background Extraction using Avg frames diffrance in an image and Background extraction etc.
 
-##_Refrances_
+##__Refrances__
 
 Here are some refrances from where you can get an idea.
 
@@ -12,9 +12,10 @@ Here are some refrances from where you can get an idea.
 
 [Computer Vision Detecting Objects Using Haar Cascade Classifier](https://towardsdatascience.com/computer-vision-detecting-objects-using-haar-cascade-classifier-4585472829a9)
 
-##_Credit_
+##__Credit__
 
-The real code Which Helped 
+The real code Which Helped:
+
 [Background Extraction Using Runnin Avg.](http://opencvpython.blogspot.com/2012/07/background-extraction-using-running.html)
 
 If any feedback feel free to contact at - [Gmail]__shubshub1995@gmail.com__
