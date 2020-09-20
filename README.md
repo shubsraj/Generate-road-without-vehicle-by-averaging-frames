@@ -4,7 +4,7 @@
 Here i Worked on Computer Vision where i worked on diffrant things liks object detection (car in my case), 
 Background Extraction using Avg frames diffrance in an image and Background extraction etc.
 
-##__Refrances__
+##__Refrances__##
 
 Here are some refrances from where you can get an idea.
 
@@ -12,7 +12,7 @@ Here are some refrances from where you can get an idea.
 
 [Computer Vision Detecting Objects Using Haar Cascade Classifier](https://towardsdatascience.com/computer-vision-detecting-objects-using-haar-cascade-classifier-4585472829a9)
 
-##__Credit__
+##__Credit__##
 
 The real code Which Helped:
 
