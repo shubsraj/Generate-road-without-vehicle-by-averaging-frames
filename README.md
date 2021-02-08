@@ -18,4 +18,4 @@ The real code Which Helped:
 
 [Background Extraction Using Runnin Avg.](http://opencvpython.blogspot.com/2012/07/background-extraction-using-running.html)
 
-If any feedback feel free to contact at - [Gmail]__shubshub1995@gmail.com__
+If any feedback feel free to contact at - [Gmail](__shubshub1995@gmail.com__)
